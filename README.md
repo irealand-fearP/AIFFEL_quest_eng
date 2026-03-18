@@ -5,7 +5,7 @@
 
 ## 레포구조:
 ```powershell
-```text
+```
 AIFFEL_quest_eng
 ├── Computer_Vision
 │   ├── CV01
